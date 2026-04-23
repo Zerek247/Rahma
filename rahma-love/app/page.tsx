@@ -141,7 +141,7 @@ export default function Home() {
       });
     };
 
-    const spawnInterval = setInterval(spawnHeart, 320);
+    const spawnInterval = setInterval(spawnHeart, 120);
 
     const animate = () => {
       ctx.clearRect(0, 0, canvas.width, canvas.height);

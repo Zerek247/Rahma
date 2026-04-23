@@ -138,8 +138,8 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: space-between;
-  padding: clamp(1.2rem, 4vh, 2.5rem) clamp(1rem, 4vw, 2rem);
+  justify-content: space-evenly;
+  padding: clamp(0.5rem, 2vh, 1.2rem) clamp(1rem, 4vw, 2rem);
   background: var(--deep);
   overflow: hidden;
   opacity: 0;
@@ -251,8 +251,8 @@ body {
   font-family: 'Cormorant Garamond', serif;
   font-style: italic;
   font-weight: 300;
-  font-size: clamp(0.95rem, 3.5vw, 1.2rem);
-  line-height: 1.75;
+  font-size: clamp(1rem, 3.8vw, 1.3rem);
+  line-height: 1.85;
   color: var(--beige-dark);
   letter-spacing: 0.01em;
 }
