@@ -1,0 +1,6 @@
+Place your Gemini-generated video here as: video.mp4
+
+The video should be:
+- ~11-12 seconds long
+- Named exactly: video.mp4
+- It will autoplay, loop, have no controls (like a GIF)
