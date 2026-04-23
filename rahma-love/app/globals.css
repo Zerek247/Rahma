@@ -251,7 +251,7 @@ body {
   font-family: 'Cormorant Garamond', serif;
   font-style: italic;
   font-weight: 300;
-  font-size: clamp(0.72rem, 2.8vw, 0.95rem);
+  font-size: clamp(0.95rem, 3.5vw, 1.2rem);
   line-height: 1.75;
   color: var(--beige-dark);
   letter-spacing: 0.01em;
